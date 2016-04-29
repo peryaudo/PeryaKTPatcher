@@ -1,4 +1,5 @@
-Peryaudo Kayou Typing Patcher
+# Peryaudo Kayou Typing Patcher
+
 Copyright(C) 2010 Peryaudo. All rights reserved.
 
 ## ‚Í‚¶‚ß‚É
